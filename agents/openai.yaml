@@ -1,0 +1,6 @@
+interface:
+  display_name: "Cloudflare 工程师界面"
+  short_description: "提炼克制、高密度、工程师导向的 Cloudflare 控制台语言"
+  brand_color: "#F6821F"
+  default_prompt: "使用 $cloudflare-engineering-ui 设计一个清晰、紧凑、适合高密度数据消费的工程控制台。"
+
